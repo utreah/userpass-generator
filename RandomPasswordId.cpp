@@ -1,6 +1,3 @@
-﻿// RandomGenerator.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme rada başlayıp biter.
-//
-
 #include <iostream>
 #include <Windows.h>
 #include <algorithm>
