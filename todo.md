@@ -1,1 +1,1 @@
-add_Char will replace the same amount of chars which removed in char_Remover
+- add_Char will replace the same amount of chars which removed in char_Remover
